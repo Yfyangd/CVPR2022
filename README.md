@@ -5,7 +5,7 @@
 
 
 ## HCQDL's Architecture.
-<img style="float: left;" src="./image/1.png" width="70%">
+<img style="float: left;" src="./images/1.png" width="70%">
 
 
 * The first function of SP&A-Net is the self-proliferation, using a series of linear transformations to generate more feature maps at a cheaper cost. We can train image classifier in a more efficient way.
