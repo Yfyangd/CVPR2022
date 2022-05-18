@@ -8,8 +8,11 @@
 * HCQDL uses quantum circuits to nonlinearly transform classical inputs into features that can then be used in a number of deep learning algorithms. HCQDL consists of classical layer, quantum layer, and fully connection layer. Please refer to ```Hybrid_CNN.py```
 <img style="float: left;" src="./images/1.png" width="70%">
 
+### Classical Layer (SP&A-Net)
+* The first function of SP&A-Net is the self-proliferation, using a series of linear transformations to generate more feature maps at a cheaper cost. We can train image classifier in a more efficient way. Please refer to ```Self_Proliferate.py```
+<img style="float: left;" src="./images/SP.png" width="70%">
 
-* The first function of SP&A-Net is the self-proliferation, using a series of linear transformations to generate more feature maps at a cheaper cost. We can train image classifier in a more efficient way.
+
 * The second function is self-attention, capturing the long-range dependencies of the feature map using the channel-wise and spatial attention mechanism.
 
 ## Code
