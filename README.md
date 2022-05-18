@@ -12,10 +12,10 @@
 <img style="float: left;" src="./images/SP.jpg" width="70%">
 
 * The second function is self-attention, capturing the long-range dependencies of the feature map using the channel-wise and spatial attention mechanism. Please refer to ```Self_Attention.py```
-<img style="float: left;" src="./images/SA.jpg" width="70%">
+<img style="float: left;" src="./images/SA.jpg" width="50%">
 
 * SP&A Block please refer to ```Self_Proliferate_and_Attention.py```
-<img style="float: left;" src="./images/SPA.jpg" width="70%">
+<img style="float: left;" src="./images/SPA.jpg" width="50%">
 
 ### Quantum Layer
 The quantum layer implemented by various quantum circuit built in the continuous-variable architecture. It consists of three consecutive parts (as shown in Figure 8). An encoding circuit encodes classical data to states of the qubits followed by a parametrized quantum circuit (PQC) that is applied to transform these states to their optimal location on the Hilbert space.  Please refer to ```quantum_circuit.py```
