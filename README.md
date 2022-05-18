@@ -5,6 +5,7 @@
 
 
 ## HCQDL's Architecture.
+HCQDL uses quantum circuits to nonlinearly transform classical inputs into features that can then be used in a number of deep learning algorithms. HCQDL consists of classical layer, quantum layer, and fully connection layer. Please refer to ```Hybrid_CNN.py```
 <img style="float: left;" src="./images/1.png" width="70%">
 
 
