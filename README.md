@@ -37,5 +37,3 @@ python TestRun.py
 
 ```SP&A-Net-Test-Run.ipynb``` is in the form of a Jupyter Notebook as a simple display with CIFAR-10 as the training object.
 
-## Contribution
-In addition, this research won the TSMC 2020 machine learning competition champion. It has achieved substantial improvement in the industry.
