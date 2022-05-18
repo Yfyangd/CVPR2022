@@ -1,10 +1,13 @@
-## SP&A-Net
+## Hybrid Classical-Quantum Deep Learning (HCQDL)
 [Project]() | [Arxiv](https://arxiv.org/pdf/1905.01164.pdf) | [CVF]() 
 ### Official tensorflow implementation of the paper: "Semiconductor Defect Detection by Hybrid Classical-Quantum Deep Learning"
 ####  CVPR 2022
 
 
-## SP&A-Net's Architecture.
+## HCQDL's Architecture.
+<img style="float: left;" src="./image/1.png" width="70%">
+
+
 * The first function of SP&A-Net is the self-proliferation, using a series of linear transformations to generate more feature maps at a cheaper cost. We can train image classifier in a more efficient way.
 * The second function is self-attention, capturing the long-range dependencies of the feature map using the channel-wise and spatial attention mechanism.
 
