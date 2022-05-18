@@ -1,7 +1,7 @@
 ## SP&A-Net
 [Project]() | [Arxiv](https://arxiv.org/pdf/1905.01164.pdf) | [CVF]() 
-### Official tensorflow implementation of the paper: "A Novel Deep Learning Architecture for Defect Pattern Classification: Self-Proliferation-and-Attention Neural Network"
-####  CVPR 2021
+### Official tensorflow implementation of the paper: "Semiconductor Defect Detection by Hybrid Classical-Quantum Deep Learning"
+####  CVPR 2022
 
 
 ## SP&A-Net's Architecture.
