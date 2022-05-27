@@ -2,8 +2,7 @@
 [Project]() | [Arxiv]() | [CVF]() 
 ### Official tensorflow implementation of the paper: "Semiconductor Defect Detection by Hybrid Classical-Quantum Deep Learning"
 
-[![Everything Is AWESOME](https://youtu.be/80vbhPJXSCM)
-
+[![IMAGE ALT TEXT HERE](https://j.gifs.com/XQr8Jl.gif)](https://youtu.be/80vbhPJXSCM)
 
 ## HCQDL's Architecture.
 * HCQDL uses quantum circuits to nonlinearly transform classical inputs into features that can then be used in a number of deep learning algorithms. HCQDL consists of classical layer, quantum layer, and fully connection layer. Please refer to ```Hybrid_CNN.py```
