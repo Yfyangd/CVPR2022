@@ -47,4 +47,4 @@ This code was tested with python 3.7
 
 ```CircleLoss.py``` is used to estimate the loss rate during model training with two elemental deep feature learning approaches: class-level labels and pair-wise labels.
 
-<img style="float: right;" src="./images/MetAiTech_barcode.png" width="15%">  <img style="float: right;" src="./images/yfyangd_barcode.png" width="15%">
+<img style="float: right;" src="./images/MetAiTech_barcode.png" width="15%">  <img style="float: right;" src="./images/yfyangd_barcode.png" width="15%">  <img style="float: right;" src="./images/github_barcode.png" width="15%">
