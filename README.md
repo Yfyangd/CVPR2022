@@ -1,6 +1,6 @@
 ## CVPR2022 - Hybrid Classical-Quantum Deep Learning (HCQDL)
 [CVF](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_Semiconductor_Defect_Detection_by_Hybrid_Classical-Quantum_Deep_Learning_CVPR_2022_paper.html) | [IEEE]() | [Vedio](https://www.youtube.com/embed/80vbhPJXSCM) 
-### Official tensorflow implementation of the paper: "Semiconductor Defect Detection by Hybrid Classical-Quantum Deep Learning"
+### CVPR2022 paper: "Semiconductor Defect Detection by Hybrid Classical-Quantum Deep Learning"
 
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=1jWPTQ-EMv6jA3zY__aL8l5n3i_mJXohp)](https://www.youtube.com/embed/80vbhPJXSCM)
 
